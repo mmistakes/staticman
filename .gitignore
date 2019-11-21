@@ -6,6 +6,7 @@ config.json
 config.*.json
 !config.test.json
 !config.example.json
+!config.production.json
 coverage/
 node_modules/
 staticman_key
